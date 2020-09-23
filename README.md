@@ -1,4 +1,4 @@
-# groworx_demo
+# Robot-Framerwork-Selenium--UI-test-for-Groworx
 This demo project is done using Selenium, Robot Framework, and Python. This simple UI test sends and validates the contact us report of zuki.com.ph. On the test case below you will see a high level explanation of the executed test case.
 
 User should be allowed to send a contact us form
